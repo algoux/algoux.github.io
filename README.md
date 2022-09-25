@@ -1,13 +1,11 @@
-# template-vite-js-tailwind-v3
+# algoUX Home Page
 
-- **template of:** vite + vanilaJS
-- **tailwindcss:** v3.x
+<https://algoux.org>
 
 ## Started
 
 ```bash
-yarn
-# or `npm install`
+pnpm i
 ```
 
 ---
@@ -15,8 +13,7 @@ yarn
 ## Develop
 
 ```bash
-yarn dev
-# or `npm run dev`
+pnpm run dev
 ```
 
 ---
@@ -24,12 +21,5 @@ yarn dev
 ## Build
 
 ```bash
-yarn build
-# or `npm run build`
+pnpm run build
 ```
-
----
-
-<p align="center">
-<img src="./powered-by-vitawind-bright.png">
-</p>
